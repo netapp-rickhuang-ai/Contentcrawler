@@ -1,2 +1,2 @@
 # contentcrawler
-Fitness content crawler
+Web content crawler
