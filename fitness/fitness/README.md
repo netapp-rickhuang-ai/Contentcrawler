@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/netapp-rickhuang-ai/Contentcrawler">
-    <img src="images/TA_logo.png" alt="Logo" width="80" height="80">
+    <img src="TA_logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Content crawler - CF</h3>
@@ -233,7 +233,7 @@ Project Link: [https://github.com/netapp-rickhuang-ai/Contentcrawler](https://gi
 [Soup-url]: https://beautiful-soup-4.readthedocs.io/en/latest/
 [Python3]: https://www.python.org/static/img/python-logo@2x.png
 [Python3-url]: https://www.python.org/
-[Cfscrap]: images/cfscrape_logo.png
+[Cfscrap]: cfscrape_logo.png
 [Cfscrap-url]: https://pypi.org/project/cfscrape/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
