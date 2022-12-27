@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/netapp-rickhuang-ai/Contentcrawler">
-    <img src="images/TA_logo.png" alt="Logo" width="80" height="80">
+    <img src="TA_logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Content crawler - CF</h3>
@@ -87,7 +87,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This project aims to scrape web forum contents and save them for further NLP AI researchl.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,11 +111,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+- Anaconda environment
+- Python 3.9.6
+- `cfscrape` library
+- A target https webpage to scrape
 
 ### Installation
 
@@ -234,7 +233,7 @@ Project Link: [https://github.com/netapp-rickhuang-ai/Contentcrawler](https://gi
 [Soup-url]: https://beautiful-soup-4.readthedocs.io/en/latest/
 [Python3]: https://www.python.org/static/img/python-logo@2x.png
 [Python3-url]: https://www.python.org/
-[Cfscrap]: images/cfscrape_logo.png
+[Cfscrap]: cfscrape_logo.png
 [Cfscrap-url]: https://pypi.org/project/cfscrape/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
