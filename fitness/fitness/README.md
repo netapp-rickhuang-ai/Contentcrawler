@@ -228,7 +228,7 @@ Project Link: [https://github.com/netapp-rickhuang-ai/Contentcrawler](https://gi
 [license-url]: https://github.com/tappinganalytics/Contentcrawler/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rick-huang-ai/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: homepage.png
 [BeautifulSoup]: https://sixfeetup.com/blog/an-introduction-to-beautifulsoup/@@images/27e8bf2a-5469-407e-b84d-5cf53b1b0bb6.png
 [Soup-url]: https://beautiful-soup-4.readthedocs.io/en/latest/
 [Python3]: https://www.python.org/static/img/python-logo@2x.png
